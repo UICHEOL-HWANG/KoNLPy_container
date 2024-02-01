@@ -1,7 +1,7 @@
 # KoNLPy with Mecab Docker Image 
 [mecab-ko](https://eunjeon.blogspot.com/)가 설치된 [KoNLPy](https://konlpy.org/en/latest/)의 `Dockerfile` 및 `docker-compose.yml` 입니다.
 
-또한 Mecab을 활용할 수 있도록 `Jupyter Notebook` 또한 같이 빌드할 수 있도록 설정하였으므로 활용하시면서 텍스트 분석을 조금 더 용이하게 사용하시면 좋겠습니다. 
+Mecab을 활용할 수 있고 `Jupyter Notebook` 또한 같이 빌드할 수 있도록 설정하였으므로 활용하시면서 텍스트 분석을 조금 더 용이하게 사용하시면 좋겠습니다. 
 
 # STEP.1 
 - 사용방법 
